@@ -1,0 +1,19 @@
+{
+
+  "TextoBoton": "Cerdo",
+
+  "Archivo": "/sonidos/cerdo.mp3",
+
+  "Suscriptor": "si"
+
+  },
+
+  {
+
+  "TextoBoton": "Pájaro",
+
+  "Archivo": "/sonidos/pajaro.mp3",
+
+  "Suscriptor": "no"
+
+}
